@@ -1,0 +1,6 @@
+/home/alex/Projects/XPathOptimizer/XPathOptimizer.Main/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Projects/XPathOptimizer/XPathOptimizer.Main/bin/Debug/XPathOptimizer.Main.exe.mdb
+/home/alex/Projects/XPathOptimizer/XPathOptimizer.Main/bin/Debug/XPathOptimizer.Main.exe
+/home/alex/Projects/XPathOptimizer/XPathOptimizer.Main/obj/x86/Debug/XPathOptimizer.Main.exe
+/home/alex/Projects/XPathOptimizer/XPathOptimizer.Main/obj/x86/Debug/XPathOptimizer.Main.exe.mdb
+/home/alex/Projects/XPathOptimizer/XPathOptimizer.Main/bin/Debug/XmlFile.xml
